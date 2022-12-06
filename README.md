@@ -4,7 +4,7 @@ My first repository
 - Avengers Infinity War
 - Avengers EndGame
 - Harry Potter (all Movies)
-- The Hobbit (all Movies
+- The Hobbit (all Movies)
 - Thor
 - The Lion King
 - Doctor Strange
